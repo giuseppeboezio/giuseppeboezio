@@ -1,6 +1,6 @@
 # Hi there, I am Giuseppe 👋
 
-I am a student of Artificial Intelligence at University of Bologna, I graduated at University of Bari in Computer Science.
+I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
 
 ## Hobbys
 
@@ -19,13 +19,31 @@ I am a student of Artificial Intelligence at University of Bologna, I graduated 
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Tensorflow" height="25" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
   <code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+  <code><img title="Pgmpy" height="25"src="http://pgmpy.org/_static/logo.png"></code>
   <code><img title="Sk-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-   <code><img title="Prolog" height="25" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"></code>
+  <code><img title="Keras" height="25" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
+  <code><img title="Prolog" height="25" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"></code>
   <code><img title="Scala" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+  <code><img title="SonarQube" height="25" src="https://image.pngaaa.com/350/1739350-middle.png"></code>
+  
 </p>
 
+## Projects
+
+I developed different projects during the years, some of them are avaiable on Github:
+- Simple Smart Fridge System <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+- Cicerone website native written <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code><code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code><code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+- Mobile App to interact with environment using different sensors with a user friendly interface <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code><code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+- Improving the quality of a system using a static analysis code tool <code><img title="SonarQube" height="25" src="https://image.pngaaa.com/350/1739350-middle.png"></code>
+- System that predict starting from video recording the level of pain of a subjects affected by low back pain <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Sk-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+- System to recognize whether a subject could suffer of degenerative deasease starting from the signature <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Keras" height="25" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
+- Software agent that can play Tablut game <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+- Bayesian Model capable of supplying the probability to deploy a football player in a Fantasyfootball team <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Pgmpy" height="25" src="http://pgmpy.org/_static/logo.png"></code>
+- Minimization of the reprojection error of the Zhang's calibration method using Nelder-Mead algorithm <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
 <!--
 **giuseppeboezio/giuseppeboezio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
