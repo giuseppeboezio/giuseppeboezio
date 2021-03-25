@@ -10,7 +10,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 - Dario Argento's movies addicted 🎥
 
 <p align="center">
-          <img src="takeThis.png"/>
+          <img heigth="350" width="500" src="https://github.com/giuseppeboezio/giuseppeboezio/blob/main/takeThis.PNG" />
 </p>
 
 ## Language & Tools
