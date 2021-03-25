@@ -10,6 +10,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 
 - Computer Science 💻
 - Japanese comics 📚
+- Kpop Music 🎵
 - German language ✈️
 - Dario Argento's movies addicted 🎥
 
