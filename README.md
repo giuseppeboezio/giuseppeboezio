@@ -20,7 +20,8 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-  <code><img title="Pgmpy" height="25"src="http://pgmpy.org/_static/logo.png"></code>
+  <code><img title="Pgmpy" height="25" src="http://pgmpy.org/_static/logo.png"></code>
+  <code><img title="Pandas" heigth="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
   <code><img title="Sk-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img title="Keras" height="25" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
   <code><img title="Prolog" height="25" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"></code>
