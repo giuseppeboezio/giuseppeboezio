@@ -13,7 +13,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
           <img heigth="350" width="500" src="https://github.com/giuseppeboezio/giuseppeboezio/blob/main/takeThis.PNG" />
 </p>
 
-## Language & Tools
+## Languages & Tools
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
