@@ -1,3 +1,7 @@
+<p align="center">
+          <img heigth="350" src="https://lh3.googleusercontent.com/proxy/0gKjEHsN781n25t47ivGZKjj51dUZ-R42EJdOISKef66tJVbvaNg5H8s0aMvZuEPYVZ79HW57ek" />
+</p>
+
 # Hi there, I am Giuseppe 👋
 
 I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
