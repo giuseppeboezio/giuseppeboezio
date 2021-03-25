@@ -51,14 +51,12 @@ I developed different projects during the years, some of them are avaiable on Gi
 ## Contacts
 
 <p align="center">
-          <img  heigth="200" width="300" src="https://media1.giphy.com/media/SUL4M5DUrilwqDiug9/source.gif"/>
+       <img heigth="350" width="500" src="https://github.com/giuseppeboezio/giuseppeboezio/blob/main/corridoio.png" />
 </p>
 
 <img src="https://img.shields.io/badge/gmail-giuseppe.boezio.gb-red"/> <img src="https://img.shields.io/badge/facebook-Giuseppe%20Boezio-blue"/> <img src="https://img.shields.io/badge/Telegram-GiuseppeBoezio-blue"/>
 
-<p align="center">
-       <img heigth="350" width="500" src="https://github.com/giuseppeboezio/giuseppeboezio/blob/main/takeThis.PNG" />
-</p>
+
 
 
 
