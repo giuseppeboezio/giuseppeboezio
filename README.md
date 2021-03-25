@@ -7,7 +7,7 @@ I am a student of Artificial Intelligence at University of Bologna, I graduated 
 - Computer Science 💻
 - Japanese comics 📚
 - German language ✈️
-- Dario Argento's film addicted 🎥
+- Dario Argento's movies addicted 🎥
 
 <p align="center">
           <img src="https://data.whicdn.com/images/199365769/original.gif"/>
