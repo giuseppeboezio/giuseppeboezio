@@ -1,6 +1,10 @@
 ### Hi there, I am Giuseppe 👋
 
 I am a student of Artificial Intelligence at University of Bologna, I graduated at University of Bari in Computer Science.
+My hobbys are:
+- Computer Science 💻
+- Japanese comics 📚
+- German language ✈️
 
 ## Language & Tools
 <p align="center">
