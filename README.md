@@ -56,6 +56,10 @@ I developed different projects during the years, some of them are avaiable on Gi
 
 <img src="https://img.shields.io/badge/gmail-giuseppe.boezio.gb-red"/> <img src="https://img.shields.io/badge/facebook-Giuseppe%20Boezio-blue"/> <img src="https://img.shields.io/badge/Telegram-GiuseppeBoezio-blue"/>
 
+<p align="center">
+       <img heigth="350" width="500" src="https://github.com/giuseppeboezio/giuseppeboezio/blob/main/takeThis.PNG" />
+</p>
+
 
 
 <!--
