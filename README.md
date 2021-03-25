@@ -45,6 +45,16 @@ I developed different projects during the years, some of them are avaiable on Gi
 - Bayesian Model capable of supplying the probability to deploy a football player in a Fantasyfootball team <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Pgmpy" height="25" src="http://pgmpy.org/_static/logo.png"></code>
 - Minimization of the reprojection error of the Zhang's calibration method using Nelder-Mead algorithm <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
+## Contacts
+
+<p align="center">
+          <img  heigth="200" width="300" src="https://media1.giphy.com/media/SUL4M5DUrilwqDiug9/source.gif"/>
+</p>
+
+<img src="https://img.shields.io/badge/gmail-giuseppe.boezio.gb-red"/> <img src="https://img.shields.io/badge/facebook-Giuseppe%20Boezio-blue"/> <img src="https://img.shields.io/badge/Telegram-GiuseppeBoezio-blue"/>
+
+
+
 <!--
 **giuseppeboezio/giuseppeboezio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
