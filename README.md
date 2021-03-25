@@ -5,6 +5,11 @@ My hobbys are:
 - Computer Science 💻
 - Japanese comics 📚
 - German language ✈️
+- Dario Argento's film addicted 🎥
+
+<p align="center">
+          <img src="https://data.whicdn.com/images/199365769/original.gif"/>
+</p>
 
 ## Language & Tools
 <p align="center">
