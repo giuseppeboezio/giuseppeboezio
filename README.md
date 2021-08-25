@@ -25,7 +25,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-  <code><img title="Pgmpy" height="25" src="http://pgmpy.org/_static/logo.png"></code>
+  <code><img title="Pgmpy" height="25" src="https://pgmpy.org/_images/logo.png"></code>
   <code><img title="Pandas" heigth="25" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
   <code><img title="Sk-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img title="Keras" height="25" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
@@ -50,7 +50,7 @@ I developed different projects during the years, some of them are avaiable on Gi
 - System that predicts, starting from video recordings, the pain level of a subject affected by low back pain <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Sk-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 - System to recognize whether a subject could suffer of degenerative deasease starting from the signature <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Keras" height="25" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"></code>
 - Software agent that can play Tablut game <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-- Bayesian Model capable of supplying the probability to deploy a football player in a Fantasyfootball team <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Pgmpy" height="25" src="http://pgmpy.org/_static/logo.png"></code>
+- Bayesian Model capable of supplying the probability to deploy a football player in a Fantasyfootball team <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="Pgmpy" height="25" src="https://pgmpy.org/_images/logo.png"></code>
 - Minimization of the reprojection error of the Zhang's calibration method using Nelder-Mead algorithm <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code><code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
 ## Contacts
