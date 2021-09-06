@@ -1,5 +1,5 @@
 <p align="center">
-          <img heigth="350" src="https://digilander.libero.it/nixarts/gif/dbgoku01.gif" />
+          <img heigth="80" width="1000" src="https://media3.giphy.com/media/xUA7bi37UClQoqMA7u/giphy.gif" />
 </p>
 
 # Hi there, I am Giuseppe 👋
