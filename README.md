@@ -1,7 +1,3 @@
-<p align="center">
-          <img heigth="80" width="1000" src="https://media3.giphy.com/media/xUA7bi37UClQoqMA7u/giphy.gif" />
-</p>
-
 # Hi there, I am Giuseppe 👋
 
 I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
@@ -15,7 +11,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 - Dario Argento's movies addicted 🎥
 
 <p align="center">
-          <img heigth="350" width="500" src="https://github.com/giuseppeboezio/giuseppeboezio/blob/main/takeThis.PNG" />
+          <img heigth="80" width="1000" src="https://media3.giphy.com/media/xUA7bi37UClQoqMA7u/giphy.gif" />
 </p>
 
 ## Languages & Tools
