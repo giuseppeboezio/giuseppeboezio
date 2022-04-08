@@ -30,7 +30,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
   <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
-  <code><img title="SonarQube" height="25" src="https://image.pngaaa.com/350/1739350-middle.png"></code>
+  <code><img title="SonarQube" height="25" src="https://www.intre.it/wp-content/uploads/2020/05/SonarQube-logo-black-512-px-1440x445.png"></code>
   <code><img title="JustInMind" heigth="100" width="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b8f3b326da3bb56934fe9ce0f5991c4a/justinmind.png"></code>
   <code><img title="MiniZinc" height="25" src="https://avatars.githubusercontent.com/u/4684397?s=280&v=4"></code>
   
