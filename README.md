@@ -2,6 +2,7 @@
 
 I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
 
+
 <p align="center">
    <img heigth="40" width="500" src="alphago.jpg" />
 </p>
@@ -49,7 +50,6 @@ I am curious about learning everything related to Artificial Intelligence field,
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppeboezio&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeboezio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-
-
 ## Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/-giuseppe.boezio.gb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giuseppe.boezio.gb@gmail.com "Connect via Email")
