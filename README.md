@@ -55,5 +55,5 @@ I am curious about everything related to Artificial Intelligence field, my main 
 [![Gmail Badge](https://img.shields.io/badge/-giuseppe.boezio.gb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giuseppe.boezio.gb@gmail.com "Connect via Email")
 
 <p align="center">
-   <img heigth="20" width="1000" src="pacman.gif" />
+   <img heigth="10" width="1000" src="pacman.gif" />
 </p>
