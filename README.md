@@ -24,9 +24,9 @@ I am curious about learning everything related to Artificial Intelligence field,
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Sklearnr" alt="Sklearn" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Sklearnr" alt="Sklearn" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-<img src="https://keras.io/img/logo.png" title="Keras" alt="Keras " width="40" height="40"/>&nbsp;
+<img src="https://keras.io/img/logo.png" title="Keras" alt="Keras " height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://blueorange.digital/wp-content/uploads/2019/12/logo_scipy.png" title="Scipy" alt="Scipy" width="40" height="40"/>&nbsp;
