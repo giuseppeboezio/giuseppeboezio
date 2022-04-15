@@ -12,7 +12,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 
 I am curious about everything related to Artificial Intelligence field, my main interests are:
 
-* 🐒 Symbolic AI
+* 🐒🍌 Symbolic AI
   * 📯 Prolog
 * 🧠 Machine Learning
   * 🎮 Reinforcement Learning
