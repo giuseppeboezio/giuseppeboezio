@@ -10,9 +10,6 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 - German language ✈️
 - Dario Argento's movies addicted 🎥
 
-<p align="center">
-          <img heigth="80" width="1000" src="https://media3.giphy.com/media/xUA7bi37UClQoqMA7u/giphy.gif" />
-</p>
 
 ## Languages & Tools
 
