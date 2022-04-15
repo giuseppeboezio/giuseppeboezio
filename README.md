@@ -10,7 +10,9 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 - German language ✈️
 - Dario Argento's movies addicted 🎥
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppeboezio&show_icons=true&theme=tokyonight)
 
   
 
