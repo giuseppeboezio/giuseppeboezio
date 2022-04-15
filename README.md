@@ -2,6 +2,16 @@
 
 I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
 
+## Interests
+
+I am curious about learning everything related to Artificial Intelligence field, my main interests are:
+
+* 🐒 Symbolic computation
+  * 📯 Prolog
+* 🧠 Machine Learning
+  * 🎮 Reinforcement Learning
+  * 📚 Natural Language Processing
+
 ## Hobbys
 
 - Computer Science 💻
