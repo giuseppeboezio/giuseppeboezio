@@ -3,7 +3,7 @@
 I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
 
 <p align="center">
-   <img heigth="70" width="900" src="alphago.jpg" />
+   <img heigth="40" width="500" src="alphago.jpg" />
 </p>
 
 
