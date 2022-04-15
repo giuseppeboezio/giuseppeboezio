@@ -2,7 +2,7 @@
 
 I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
 
-![Alpha Go](img/alphago.jpg)
+![Alpha Go](alphago.jpg)
 
 ## Interests
 
