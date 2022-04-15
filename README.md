@@ -13,6 +13,7 @@ I am a student of **Artificial Intelligence** at University of Bologna, I gradua
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppeboezio&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeboezio)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
