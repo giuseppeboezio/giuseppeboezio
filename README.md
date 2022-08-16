@@ -35,7 +35,6 @@ I am curious about everything related to Artificial Intelligence field, my main 
 <img src="https://keras.io/img/logo.png" title="Keras" alt="Keras " height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-<img src="https://blueorange.digital/wp-content/uploads/2019/12/logo_scipy.png" title="Scipy" alt="Scipy" height="40"/>&nbsp;
 <img src="https://voyageintech.files.wordpress.com/2018/08/gym-icon.png"  title="Gym" alt="Gym" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"  title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
@@ -53,7 +52,3 @@ I am curious about everything related to Artificial Intelligence field, my main 
 ## Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/-giuseppe.boezio.gb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giuseppe.boezio.gb@gmail.com "Connect via Email")
-
-<p align="center">
-   <img heigth="10" width="1000" src="pacman.gif" />
-</p>
