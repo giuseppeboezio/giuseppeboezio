@@ -46,6 +46,7 @@ I am curious about everything related to Artificial Intelligence field, my main 
 
 ## Stats
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppeboezio&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeboezio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
