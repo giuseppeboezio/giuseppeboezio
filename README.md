@@ -18,7 +18,7 @@ I am curious about everything related to Artificial Intelligence field, my main 
   * 🎮 Reinforcement Learning
   * 📚 Natural Language Processing
 
-## Hobbys
+## Hobbies
 
 - Computer Science 💻
 - Japanese comics 📚
