@@ -1,6 +1,6 @@
 # Hi there, I am Giuseppe 👋
 
-I am a student of **Artificial Intelligence** at University of Bologna, I graduated at University of Bari in Computer Science.
+I am a Data Scientist and a former student of **Artificial Intelligence** at University of Bologna; I graduated at University of Bari in Computer Science.
 
 
 <p align="center">
@@ -17,6 +17,7 @@ I am curious about everything related to Artificial Intelligence field, my main 
 * 🧠 Machine Learning
   * 🎮 Reinforcement Learning
   * 📚 Natural Language Processing
+* Data Science 📊
 
 ## Hobbies
 
