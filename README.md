@@ -12,8 +12,7 @@ I am a Data Scientist and a former student of **Artificial Intelligence** at Uni
 
 I am curious about everything related to Artificial Intelligence field, my main interests are:
 
-* 🐒🍌 Symbolic AI
-  * 📯 Prolog
+* Software Engineering 🏠
 * 🧠 Machine Learning
   * 🎮 Reinforcement Learning
   * 📚 Natural Language Processing
