@@ -19,12 +19,12 @@ I'm a **Data Scientist** with a Master's in **Artificial Intelligence** from the
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1280px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&tbnid=8CqcBUKZOhcVoM&vet=12ahUKEwjukvGy2oSVAxWyh_0HHZIuK48QnPAOegQINRAA..i&w=1280&h=1280&hcb=2&itg=1&ved=2ahUKEwjukvGy2oSVAxWyh_0HHZIuK48QnPAOegQINRAA" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
 <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" title="LangChain" alt="LangChain" height="40"/>&nbsp;
