@@ -2,6 +2,10 @@
 
 I'm a **Data Scientist** with a Master's in **Artificial Intelligence** from the University of Bologna, currently working in Milan. I specialize in AWS-based data solutions, machine learning, and cloud architecture.
 
+<p align="center">
+   <img heigth="40" width="500" src="alphago.jpg" />
+</p>
+
 ## 🚀 Interests
 
 - ☁️ Cloud Architecture & AWS
@@ -36,4 +40,3 @@ I'm a **Data Scientist** with a Master's in **Artificial Intelligence** from the
 
 [![Gmail](https://img.shields.io/badge/-giuseppe.boezio.gb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giuseppe.boezio.gb@gmail.com "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-boezio)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/giuseppeboezio)
