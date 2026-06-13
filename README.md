@@ -19,7 +19,7 @@ I'm a **Data Scientist** with a Master's in **Artificial Intelligence** from the
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1280px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&tbnid=8CqcBUKZOhcVoM&vet=12ahUKEwjukvGy2oSVAxWyh_0HHZIuK48QnPAOegQINRAA..i&w=1280&h=1280&hcb=2&itg=1&ved=2ahUKEwjukvGy2oSVAxWyh_0HHZIuK48QnPAOegQINRAA" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -31,7 +31,7 @@ I'm a **Data Scientist** with a Master's in **Artificial Intelligence** from the
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" height="40"/>&nbsp;
 <img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" title="AWS Glue" alt="AWS Glue" width="40" height="40"/>&nbsp;
 <img src="https://icon.icepanel.io/AWS/svg/Machine-Learning/SageMaker.svg" title="AWS SageMaker" alt="AWS SageMaker" width="40" height="40"/>&nbsp;
-<img src="https://icon.icepanel.io/AWS/svg/Business-Applications/QuickSight.svg" title="AWS QuickSight" alt="AWS QuickSight" width="40" height="40"/>&nbsp;
+<img src="https://docs.starburst.io/assets/img/logo/quicksight.png" title="AWS QuickSight" alt="AWS QuickSight" width="40" height="40"/>&nbsp;
 <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" title="AWS S3" alt="AWS S3" width="40" height="40"/>&nbsp;
 <img src="https://icon.icepanel.io/AWS/svg/Analytics/Athena.svg" title="AWS Athena" alt="AWS Athena" width="40" height="40"/>&nbsp;
 </p>
